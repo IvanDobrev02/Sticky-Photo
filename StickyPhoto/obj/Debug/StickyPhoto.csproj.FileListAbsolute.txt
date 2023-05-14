@@ -1,0 +1,16 @@
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\bin\Debug\StickyPhoto.exe.config
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\bin\Debug\StickyPhoto.exe
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\bin\Debug\StickyPhoto.pdb
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.csproj.AssemblyReference.cache
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.FormMain.resources
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.Properties.Resources.resources
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.csproj.GenerateResource.cache
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.csproj.CoreCompileInputs.cache
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.exe
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.pdb
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.LocationForm.resources
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\bin\Debug\StickyPhoto.exe.manifest
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\bin\Debug\StickyPhoto.application
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.exe.manifest
+C:\Users\IvanD\Desktop\ТУ\САА курсова\StickyPhoto\StickyPhoto\obj\Debug\StickyPhoto.application
